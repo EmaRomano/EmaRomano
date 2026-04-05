@@ -14,7 +14,7 @@ Deep dive tecnico sul cuore di Java. Una sintesi rigorosa di teoria e pratica ba
 
 💎 Effective Java (Bloch) per le best practice e il design delle API.
 
-🧹 Clean Code (Martin) per la manutenibilità e la qualità del software. *
+🧹 Clean Code (Martin) per la manutenibilità e la qualità del software. 
 
 ---
 
