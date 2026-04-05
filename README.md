@@ -1,35 +1,51 @@
-# Benvenuto, questa è solo una bozza esemplificativa in fase di lavorazione👋
+# Ciao, sono Emanuele Romano! 👋
 
-[Una breve frase su chi sei: es. Sviluppatore Web in crescita con un focus su React e Node.js]
+> **Neolaureato in Matematica** in transizione verso il **Java Backend Development**.  
+> Unisco il rigore logico-matematico alla passione per la costruzione di architetture software robuste e scalabili.
 
 ---
 
-### 🚀 Progetti in Vetrina (Portfolio)
-*Questi sono i progetti che mostrano le mie competenze attuali e la mia capacità di risolvere problemi reali.*
+### 🛠️ In corso di sviluppo (Learning Path)
+*Attualmente sto approfondendo le novità di Java 21 e i principi del software engineering moderno.*
 
-* **[Nome Progetto 1](link-al-repo):** Descrizione breve di cosa fa e quali tecnologie hai usato (es. React, Firebase).
-* **[Nome Progetto 2](link-al-repo):** Un'app per gestire X, focalizzata sulla scalabilità.
+* **[Appunti-CoreJava21](https://github.com/EmaRomano/Appunti-CoreJava21)** | `Java 21`
+    *Repository centrale del mio percorso autodidattico. Contiene note tecniche, approfondimenti e implementazioni pratiche sulle nuove feature di Java (Virtual Threads, Pattern Matching, Record, ecc.).*
 
-### 📚 Percorso di Apprendimento (Autodidatta)
-*Cosa sto studiando ora e gli esperimenti che sto portando avanti per ampliare i miei orizzonti.*
+---
 
-* **Learning [Tecnologia X]:** Repository dove sto testando le basi di Go / Rust / Docker.
-* **[Esercitazione Corso Y]:** Implementazione di un pattern specifico seguendo il corso di [Nome Piattaforma].
+### 🚀 Progetti Portfolio
+*Sezione in aggiornamento. Sto attualmente lavorando a [Nome eventuale progetto futuro o "un'applicazione backend completa"] che applichi i pattern appresi durante lo studio di Java 21.*
 
-### 🏛️ Archivio Universitario (2020-2024)
-*Materiale storico legato al mio percorso accademico. Include esami, laboratori e la tesi.*
+---
+
+### 🏛️ Percorso Accademico & Fondamenta
+*Progetti e laboratori realizzati durante il mio percorso universitario e lo studio individuale della programmazione a oggetti.*
 
 <details>
-  <summary>Clicca per espandere i progetti universitari</summary>
-  
-  * **[Esame di Algoritmi]:** Esercizi in C++ sulle strutture dati.
-  * **[Progetto di Tesi]:** Studio su X realizzato con [Linguaggio].
-  * **[Laboratorio di Reti]:** Configurazione di una rete locale simulata.
+  <summary>📂 Clicca per visualizzare l'archivio universitario</summary>
+  <br>
+
+| Progetto | Descrizione | Linguaggio |
+| :--- | :--- | :--- |
+| **[Progetto Cinema](https://github.com/EmaRomano/progettoCinema)** | Progetto finale dell'esame di Object Orientation. | `Java` |
+| **[Test Esami ASD](https://github.com/EmaRomano/TestEsamiASD)** | Suite di test e soluzioni personali per algoritmi e strutture dati. | `Java` |
+| **[Esercizi Object Orientation](https://github.com/EmaRomano/eserciziCodiceJava)** | Raccolta di esercizi svolti per consolidare i principi OOP (SOLID, ereditarietà, polimorfismo). | `Java` |
+
 </details>
 
 ---
 
-### 🛠️ Tecnologie e Tool
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+### 💻 Tech Stack & Competenze
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Math](https://img.shields.io/badge/Mathematics-%23003366.svg?style=for-the-badge&logo=strapi&logoColor=white)
+
+* **Linguaggi:** Java (Core, 17, 21)
+* **Skill Logiche:** Problem Solving, Complessità Algoritmica, Modellazione Matematica.
+* **Soft Skill:** Precisione analitica, attitudine all'apprendimento continuo.
+
+---
+
+### 📫 Come trovarmi
+- **LinkedIn**: [Il tuo profilo LinkedIn]
+- **Email**: [La tua email]
