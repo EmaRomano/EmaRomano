@@ -7,15 +7,8 @@
 ### 🛠️ In corso di sviluppo (Learning Path)
 *Attualmente sto approfondendo le novità di Java 21 e i principi del software engineering moderno.*
 
-* **[Appunti-CoreJava21](https://github.com/EmaRomano/Appunti-CoreJava21)** | `Java 21` `Latex`
-Deep dive tecnico sul cuore di Java. Una sintesi rigorosa di teoria e pratica basata sui pilastri dell'ingegneria del software:
-
-📚 Core Java I-II (Horstmann) per le fondamenta.
-
-💎 Effective Java (Bloch) per le best practice e il design delle API.
-
-🧹 Clean Code (Martin) per la manutenibilità e la qualità del software. 
-
+* **[Appunti-CoreJava21](https://github.com/EmaRomano/Appunti-CoreJava21)** | `Java 21` `LaTeX` 📄 **[Leggi il PDF](link-al-tuo-file-pdf-diretto)**
+    *Deep dive tecnico sul cuore di Java. Una sintesi rigorosa basata sui pilastri dell'ingegneria del software (Horstmann, Bloch, Martin).*
 ---
 
 ### 🚀 Progetti Portfolio
