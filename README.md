@@ -1,25 +1,30 @@
 # Ciao, sono Emanuele Romano! 👋
 
 > **Neolaureato in Matematica** in transizione verso il **Java Backend Development**.  
-> Unisco il rigore logico-matematico alla passione per la costruzione di architetture software robuste e scalabili.
 
 ---
 
 ### 🛠️ In corso di sviluppo (Learning Path)
 *Attualmente sto approfondendo le novità di Java 21 e i principi del software engineering moderno.*
 
-* **[Appunti-CoreJava21](https://github.com/EmaRomano/Appunti-CoreJava21)** | `Java 21`
-    *Repository centrale del mio percorso autodidattico. Contiene note tecniche, approfondimenti e implementazioni pratiche sulle nuove feature di Java (Virtual Threads, Pattern Matching, Record, ecc.).*
+* **[Appunti-CoreJava21](https://github.com/EmaRomano/Appunti-CoreJava21)** | `Java 21` `Latex`
+Deep dive tecnico sul cuore di Java. Una sintesi rigorosa di teoria e pratica basata sui pilastri dell'ingegneria del software:
+
+📚 Core Java I-II (Horstmann) per le fondamenta.
+
+💎 Effective Java (Bloch) per le best practice e il design delle API.
+
+🧹 Clean Code (Martin) per la manutenibilità e la qualità del software. *
 
 ---
 
 ### 🚀 Progetti Portfolio
-*Sezione in aggiornamento. Sto attualmente lavorando a [Nome eventuale progetto futuro o "un'applicazione backend completa"] che applichi i pattern appresi durante lo studio di Java 21.*
+*Sezione in aggiornamento*
 
 ---
 
 ### 🏛️ Percorso Accademico & Fondamenta
-*Progetti e laboratori realizzati durante il mio percorso universitario e lo studio individuale della programmazione a oggetti.*
+*Raccolta di progetti realizzati durante il percorso accademico. Questi repository testimoniano le mie basi logiche e l'evoluzione del mio metodo di sviluppo, sebbene non riflettano gli standard di design e le best practice che adotto attualmente*
 
 <details>
   <summary>📂 Clicca per visualizzare l'archivio universitario</summary>
@@ -47,5 +52,5 @@
 ---
 
 ### 📫 Come trovarmi
-- **LinkedIn**: [Il tuo profilo LinkedIn]
-- **Email**: [La tua email]
+- **LinkedIn**: https://www.linkedin.com/in/eromano-math/
+- **Email**: emaroma82@gmail.com
