@@ -7,7 +7,7 @@
 ### 🛠️ In corso di sviluppo (Learning Path)
 *Attualmente sto approfondendo le novità di Java 21 e i principi del software engineering moderno.*
 
-* **[Appunti-CoreJava21](https://github.com/EmaRomano/Appunti-CoreJava21)** | `Java 21` `LaTeX` 📄 **[Leggi il PDF](link-al-tuo-file-pdf-diretto)**
+* **[Appunti-CoreJava21](https://github.com/EmaRomano/Appunti-CoreJava21)** | `Java 21` `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/Appunti-CoreJava21/blob/main/main.pdf)**
     *Deep dive tecnico sul cuore di Java. Una sintesi rigorosa basata sui pilastri dell'ingegneria del software (Horstmann, Bloch, Martin).*
 ---
 
