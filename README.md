@@ -11,7 +11,7 @@
     *Deep dive tecnico sul cuore di Java. Una sintesi rigorosa basata sui pilastri dell'ingegneria del software (Horstmann, Bloch, Martin).*
 ---
 
-* **[Appunti-Basi di dati 1](https://github.com/EmaRomano/AppuntiBasiDiDati1)** | `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/AppuntiBasiDiDati1/blob/main/main.tex)**
+* **[Appunti-Basi di dati 1](https://github.com/EmaRomano/AppuntiBasiDiDati1)** | `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/AppuntiBasiDiDati1/blob/main/main.pdf)**
     *Appunti sul corso di Basi di dati 1 del CdL in Informatica*
 ---
 
