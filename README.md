@@ -15,7 +15,7 @@
     *Appunti sul corso di Basi di dati 1 del CdL in Informatica*
 ---
 
-* **[Esercizi di Algoritmi e Strutture Dati]([https://github.com/EmaRomano/ASD])** | `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/AppuntiBasiDiDati1/blob/main/main.pdf)**
+* **[Esercizi di Algoritmi e Strutture Dati]([https://github.com/EmaRomano/ASD])** * | `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/AppuntiBasiDiDati1/blob/main/main.pdf)**
     *Raccolta di note ed esercizi di algoritmica che coltivo nel tempo*
 ---
 
