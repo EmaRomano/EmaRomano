@@ -47,7 +47,7 @@
 
 * **Linguaggi & DB:** Java (Core, 17, 21), PostgreSQL, SQL (DDL, DML, Indexing).
 * **Skill Logiche:** Problem Solving, Complessità Algoritmica, Modellazione Matematica, Progettazione Relazionale.
-* **Soft Skill:** Precisione analitica, attitudine all'apprendimento continuo, onestà intellettuale nell'uso degli strumenti.
+* **Soft Skill:** Precisione analitica, attitudine all'apprendimento continuo.
 
 ---
 
