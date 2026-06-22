@@ -7,7 +7,7 @@
 ### 🛠️ In corso di sviluppo (Learning Path)
 *Attualmente sto studiando Java 21 e le basi di dati relazionali.*
 
-* **[Appunti-CoreJava21](https://github.com/EmaRomano/Appunti-CoreJava21)** |`LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/Appunti-CoreJava21/blob/main/main.pdf)**
+* **[Appunti-CoreJava21](https://github.com/EmaRomano/Appunti-CoreJava21)** | `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/Appunti-CoreJava21/blob/main/main.pdf)**
     *Deep dive tecnico sul cuore di Java. Una sintesi rigorosa basata sui pilastri dell'ingegneria del software (Horstmann, Bloch, Martin).*
 ---
 
@@ -16,7 +16,9 @@
 ---
 
 ### 🚀 Progetti Portfolio
-*Sezione in aggiornamento*
+
+* **[SafeDrive InsurTech - Core Database Architecture](https://github.com/EmaRomano/safedrive-relational-database)** | `PostgreSQL` `SQL` `LaTeX` 📄 **[Leggi il Documento di Design](https://github.com/EmaRomano/safedrive-relational-database/blob/main/safedrive_db_documentation.pdf)**
+    *Architettura relazionale normalizzata, progettata da zero come livello di persistenza per un futuro sistema backend in ambito assicurativo. Il progetto presenta uno schema DDL ottimizzato, popolamento DML gerarchico (Bulk Load per test di integrità), indicizzazione B-Tree per pattern di accesso specifici e una rigorosa documentazione architetturale sulle logiche di business delegate all'applicativo (es. pattern "Economic Snapshot", validazione territoriale, storicità di proprietà).*
 
 ---
 
@@ -39,12 +41,13 @@
 
 ### 💻 Tech Stack & Competenze
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Math](https://img.shields.io/badge/Mathematics-%23003366.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
-* **Linguaggi:** Java (Core, 17, 21)
-* **Skill Logiche:** Problem Solving, Complessità Algoritmica, Modellazione Matematica.
-* **Soft Skill:** Precisione analitica, attitudine all'apprendimento continuo.
+* **Linguaggi & DB:** Java (Core, 17, 21), PostgreSQL, SQL (DDL, DML, Indexing).
+* **Skill Logiche:** Problem Solving, Complessità Algoritmica, Modellazione Matematica, Progettazione Relazionale.
+* **Soft Skill:** Precisione analitica, attitudine all'apprendimento continuo, onestà intellettuale nell'uso degli strumenti.
 
 ---
 
