@@ -14,7 +14,7 @@
 * **[Appunti-Basi di dati 1](https://github.com/EmaRomano/AppuntiBasiDiDati1)** | `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/AppuntiBasiDiDati1/blob/main/main.pdf)**
     *Appunti sul corso di Basi di dati 1 del CdL in Informatica*
 
-    * **[Note di reti per Java backend](https://github.com/EmaRomano/Reti)** | `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/Reti/blob/main/main.pdf)**
+* **[Note di Reti per Java Backend](https://github.com/EmaRomano/Reti)** | `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/Reti/blob/main/main.pdf)**
 ---
 
 ### 🚀 Progetti Portfolio
