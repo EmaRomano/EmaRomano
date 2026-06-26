@@ -18,7 +18,7 @@
 * **[Note di Reti per Java Backend](https://github.com/EmaRomano/Reti)** | `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/Reti/blob/main/main.pdf)**
 ---
 
-### 🚀 Progetti Portfolio
+### Progetti Portfolio (🛠️ Work in Progress)
 
 * **[SafeDrive InsurTech - Core Database Architecture](https://github.com/EmaRomano/safedrive-relational-database)** | `PostgreSQL` `SQL` `LaTeX` 📄 **[Leggi il Documento di Design](https://github.com/EmaRomano/safedrive-relational-database/blob/main/safedrive_db_documentation.pdf)**
     *Architettura relazionale normalizzata, progettata da zero come livello di persistenza per un futuro sistema backend in ambito assicurativo. Il progetto presenta uno schema DDL ottimizzato, popolamento DML gerarchico (Bulk Load per test di integrità), indicizzazione B-Tree per pattern di accesso specifici e una rigorosa documentazione architetturale sulle logiche di business delegate all'applicativo (es. pattern "Economic Snapshot", validazione territoriale, storicità di proprietà).*
