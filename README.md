@@ -7,7 +7,7 @@
 ### 🛠️ In corso di sviluppo (Learning Path)
 *Attualmente sto studiando Java 21 e le basi di dati relazionali.*
 
-* **[Appunti-CoreJava21](https://github.com/EmaRomano/Appunti-CoreJava21)** | `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/Appunti-CoreJava21/blob/main/main.pdf)**
+* **[Appunti-CoreJava21 (in costruzione 🛠️)](https://github.com/EmaRomano/Appunti-CoreJava21)** | `LaTeX` 📄 **[Leggi il PDF](https://github.com/EmaRomano/Appunti-CoreJava21/blob/main/main.pdf)**
     *Deep dive tecnico sul cuore di Java. Una sintesi rigorosa basata sui pilastri dell'ingegneria del software (Horstmann, Bloch, Martin).*
 ---
 
